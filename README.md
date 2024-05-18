@@ -15,7 +15,7 @@ This project is a web application that consists of a backend and a frontend.
     ```
 
 ## Frontend Setup
-1. Open a new terminal and navigate to the frontend directory.
+1. Open a new terminal and navigate to the frontend/book-app directory.
 2. Run the following command to install the required dependencies:
     ```
     npm install
